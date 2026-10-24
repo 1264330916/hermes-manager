@@ -1,0 +1,8 @@
+{
+  "version": "0.2.77",
+  "notes": "1. 更新提示改为左侧标题卡片常驻角标（红点 +「发现新版本」），不再自动弹窗。\n2. 只有用户点击角标才打开更新详情与升级。\n3. 无新版本时角标隐藏，界面保持原样。",
+  "url": "https://github.com/1264330916/hermes-manager/releases/download/v0.2.77/Hermes-Manager-Portable-v0.2.77-x64.exe",
+  "sha256": "4b9936c850ba788b8844daf83632aa654475eb84686579dcc931db532863f8e9",
+  "file": "Hermes-Manager-Portable-v0.2.77-x64.exe",
+  "mandatory": false
+}
